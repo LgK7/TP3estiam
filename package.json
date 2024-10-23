@@ -9,6 +9,6 @@
   "dependencies": {
     "mongodb": "^4.0.0"
   },
-  "author": "Your Name",
+  "author": "jeanbelly",
   "license": "ISC"
 }
