@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Jeanbelly",
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  },
+  "author": "Your Name",
   "license": "ISC"
 }
